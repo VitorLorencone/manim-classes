@@ -1,1 +1,1 @@
-# Manim
+# Manim for math classes

@@ -1,4 +1,4 @@
-# Questão 6 - Taxas Relacionadas
+# Taxas Relacionadas
 
 Um incêndio em um campo aberto se alastra em forma de círculo. O
 raio do círculo aumenta à razão de 0,5 m/min. Determine a taxa à
